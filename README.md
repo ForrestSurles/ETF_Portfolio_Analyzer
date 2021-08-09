@@ -2,7 +2,7 @@
 
 Welcome to the **07_Module_Challenge** Jupyter Notebook!
 
-> The included Jupyter Notebook describes a workflow for the calculation of an ETF portfolio's *daily* and *cumulative* returns <br> as well as visualize their movements throughout the period.
+> The included Jupyter Notebook describes a workflow for the calculation of an ETF portfolio's *daily* and *cumulative* returns as well as visualize their movements throughout the period.
 
 ## Technologies
 
